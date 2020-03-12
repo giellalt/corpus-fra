@@ -1,0 +1,49 @@
+<document xml:lang="fra" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="swe"/>
+    <wordcount>278</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="fra"/>
+      <language xml:lang="swe"/>
+    </multilingual>
+    <origFileName>http://www.umo.se/Andra-sprak/Om-UMO/UMO-en-francais</origFileName>
+    <parallel_text xml:lang="eng" location="about-umo.html"/>
+    <parallel_text xml:lang="fin" location="umosta.html"/>
+    <parallel_text xml:lang="rus" location="o-umo.html"/>
+    <parallel_text xml:lang="swe" location="om-umo.html"/>
+    <parallel_text location="o-umo-u-serbokroatiska.html" xml:lang="hbs"/>
+    <parallel_text location="umo.html" xml:lang="ara"/>
+    <parallel_text location="o-umo-polska.html" xml:lang="pol"/>
+    <parallel_text location="li-ser-umo.html" xml:lang="kmr"/>
+    <parallel_text location="umo-hakknda.html" xml:lang="tur"/>
+    <parallel_text location="persiska.html" xml:lang="fas"/>
+    <parallel_text location="sobre-umo.html" xml:lang="spa"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Au sujet d'UMO (franska)</p>
+    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
+    <p type="title" xml:lang="swe">Au sujet d'UMO (franska)</p>
+    <p xml:lang="swe">» Présentation d’UMO en français</p>
+    <p xml:lang="swe">UMO est un accueil national sur le net ouvert aux jeunes entre 13 et 25 ans. L’objectif du site est de rendre plus accessible une information cohérente et actuelle concernant les questions relationnelles, de sexualité et de santé. UMO travaille pour créer les possibilités d’une égalité et d’un champ d’action agrandi pour les jeunes. UMO veut en offrant du savoir donner la possibilité aux jeunes de réfléchir pour qu’ils puissent agir sur leur situation - à la maison, dans leurs relations, à l’école ou au travail. Quand on connaît ses droits et ses obligations on accroit ses possibilités de choix et de décision. UMO fait un travail dans lequel les jeunes s’engagent, où l’objectif est que chacun puisse y trouver son compte, qui que l’on soit. Les normes sont mises en causes et sont problématisées. Le site se doit d’être facile d’accès.</p>
+    <p xml:lang="swe">Le développement d’UMO a été financé par le Ministère de la Santé (Socialstyrelsen) sur une mission du Département de l’Intégration et de l’Egalité (Integrations- och jämställsdepartementet). Les départements et les communes financent le site.</p>
+    <p xml:lang="swe">Le développement d’UMO se fait en étroite collaboration avec les jeunes en Suède, le planning familial, la santé scolaire, les associations ou personnes qui travaillent avec les jeunes.</p>
+    <p xml:lang="swe">Pour l’instant il n’y a pas de traduction des contenus du site d’UMO (en suédois). Il est cependant possible d’utiliser le service de traduction de Google pour en avoir une version lisible dans ta langue. Pour ce faire, clique sur le lien ci-dessus. Nous espérons que ça t’aidera à prendre connaissance de l’information proposée par UMO.</p>
+  </body>
+</document>
