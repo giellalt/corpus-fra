@@ -1,126 +1,87 @@
-<document xml:lang="fra" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>1817</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="nob"/>
-      <language xml:lang="fra"/>
-    </multilingual>
-    <origFileName>http://www.udir.no/globalassets/upload/pp_tjenesten/ppt_fransk_informasjon.pdf</origFileName>
-    <parallel_text xml:lang="eng" location="ppt_engelsk_informasjon.pdf"/>
-    <parallel_text xml:lang="nno" location="ppt_nynorsk-informasjon.pdf"/>
-    <parallel_text xml:lang="nob" location="ppt_norsk_bokmal_informasjon.pdf"/>
-    <parallel_text xml:lang="rus" location="ppt_russisk_informasjon.pdf"/>
-    <parallel_text xml:lang="sma" location="sorsamisk.pdf"/>
-    <parallel_text xml:lang="smj" location="lulesamsisk-2.pdf"/>
-    <parallel_text location="ppt_arabisk_informasjon.pdf" xml:lang="ara"/>
-    <parallel_text location="ppt_sorani_informasjon.pdf" xml:lang="ckb"/>
-    <parallel_text location="ppt_urdu_informasjon.pdf" xml:lang="urd"/>
-    <parallel_text location="ppt_vietnamesisk_informasjon.pdf" xml:lang="vie"/>
-    <parallel_text location="ppt_somalisk_informasjon.pdf" xml:lang="som"/>
-    <parallel_text location="ppt_tyrkisk_informasjon.pdf" xml:lang="tur"/>
-    <parallel_text location="ppt_persisk_informasjon.pdf" xml:lang="fas"/>
-    <parallel_text location="ppt_polsk_informasjon.pdf" xml:lang="pol"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nob">Le service psycho-pédagogique (service PP)</p>
-    <p xml:lang="nob">Le service psycho-pédagogique (service PP) est un service de conseils et une instance d'expertise dans le domaine du développement, de l'apprentissage et du bien-être des enfants pas encore scolarisés et des élèves de l'école primaire au bac. Le service PP aide également les adultes ayant un besoin d'enseignement de niveau école primaire / collège.  Le travail du service PP est régi par la loi sur l'enseignement. Le service PP est une ressource professionnelle pour les jardins d'enfants / les crèches/ les écoles. Il permet d'améliorer l'enseignement pour les enfants et les élèves ayant des besoins spécifiques.</p>
-    <p xml:lang="nob">Le service PP</p>
-    <p type="listitem" xml:lang="nob">•  peut, entre autres, offrir un conseil et des instructions aux jardins d'enfants / crèches et aux écoles sur la gestion pédagogique des conditions de groupe et d'apprentissage.</p>
-    <p type="listitem" xml:lang="nob">•  assiste les écoles dans le développement des compétences et des organisations, et doit veiller à ce qu'une expertise soit réalisée là où la loi sur l'enseignement l'exige. Elle donner des conseils et des instructions aux jardins d'enfants et aux écoles sur l'adaptation aux enfants et aux élèves qui ont besoin d'un traitement particulier</p>
-    <p type="listitem" xml:lang="nob">•  est un service communal imposé par la loi et régi par l'article 5-6 de la loi sur l'enseignement. Ce service peut être organisé de manière intercommunale. Les</p>
-    <p xml:lang="nob">communes et cantons peuvent en effet se regrouper en services communs.</p>
-    <p type="listitem" xml:lang="nob">•  est tenu au secret professionnel : tous les renseignements collectés sont conservés dans un dossier spécifique conformément aux directives de L'inspection nationale de</p>
-    <p xml:lang="nob">la protection des données (<em type="italic">Datatilsynet</em>) </p>
-    <p type="listitem" xml:lang="nob">•  est l'instance experte de la commune / du canton en ce qui concerne l'évaluation des droits inscrits dans la loi sur l'enseignement</p>
-    <p xml:lang="nob">Les communes et cantons reçoivent des conseils de la part du service PP dans les cas suivants :</p>
-    <p type="listitem" xml:lang="nob">•  aide pédagogique pour l'enfant en âge scolaire (cf. l'article 5-7)</p>
-    <p type="listitem" xml:lang="nob">•  enseignement spécialisé à l'école (cf. l'article 5-1) et pour les adultes ayant un besoin d'enseignement de niveau école primaire et collège (cf. l'article 4a-2)</p>
-    <p type="listitem" xml:lang="nob">•  démarrage précoce à l'école (cf. le troisième alinéa de l'article 2-1)</p>
-    <p type="listitem" xml:lang="nob">•  démarrage à l'école reporté/retardé (cf. le troisième alinéa de l'article 2-1)</p>
-    <p type="listitem" xml:lang="nob">•  dispense d'obligation d'enseignement (cf. le quatrième alinéa de l'article 2-1)</p>
-    <p type="listitem" xml:lang="nob">•  enseignement dans la langue des signes avant l'âge scolaire et à l'école primaire et au collège (cf. l'article 2-6), ainsi qu'au lycée (cf. l'article 3-9)</p>
-    <p type="listitem" xml:lang="nob">•  enseignement en braille et autres à l'école primaire et au collège (cf. l'article 2-14), ainsi qu'au lycée (cf. l'article 3-10)</p>
-    <p type="listitem" xml:lang="nob">•  admission particulière dans les lycées (cf. le sixième alinéa de l'article 3-1)</p>
-    <p type="listitem" xml:lang="nob">•  durée d'enseignement élargie au lycée (cf. le cinquième alinéa de l'article 3-1)</p>
-    <p xml:lang="nob">Missions</p>
-    <p xml:lang="nob">Le service PP étudie la situation et donne des conseils et instructions à propos d'enfants, d'adolescents et d'adultes devant faire face à des défis pouvant avoir des conséquences sur leur apprentissage.</p>
-    <p xml:lang="nob">Les défis rencontrés sont, par exemple :</p>
-    <p type="listitem" xml:lang="nob">•  des difficultés de langage et d'expression</p>
-    <p type="listitem" xml:lang="nob">•  des difficultés générales d'apprentissage ou difficultés non liées à des difficultés d'apprentissage</p>
-    <p type="listitem" xml:lang="nob">•  des difficultés en lecture et en écriture</p>
-    <p type="listitem" xml:lang="nob">•  des difficultés en mathématiques</p>
-    <p type="listitem" xml:lang="nob">•  des difficultés de type non-verbal dans l'apprentissage</p>
-    <p type="listitem" xml:lang="nob">•  des difficultés de concentration</p>
-    <p type="listitem" xml:lang="nob">•  des difficultés sociales et émotionnelles</p>
-    <p type="listitem" xml:lang="nob">•  des difficultés de comportement •  des difficultés liées à une mauvaise vue ou à une mauvaise ouïe</p>
-    <p xml:lang="nob">Contact</p>
-    <p xml:lang="nob">Les élèves de plus de 15 ans, leurs parents / responsables, les jardins d'enfants / crèches, les écoles et éventuellement d'autres instances, par exemple une infirmière, peuvent contacter le service PP pour obtenir des conseils. Si une inquiétude autour du développement et d'apprentissage de l'enfant règne, il est possible de soulever cette question de manière anonyme auprès du service PP avant de formaliser le souci sous la forme d'une démarche / demande concrète.</p>
-    <p xml:lang="nob">Démarche / demande</p>
-    <p xml:lang="nob">Avant qu'un cas soit envoyé au service PP, il faut se renseigner pour savoir si l'école a essayé de mettre en œuvre d'autres mesures à l'intérieur du cadre habituel dont elle dispose. Les besoins des enfants pas encore en âge scolaire doivent être évalués indépendamment des mesures éventuelles déjà prises par le jardin d'enfants.</p>
-    <p xml:lang="nob">Un cas peut être envoyé au service PP pour être étudié et évalué si</p>
-    <p type="listitem" xml:lang="nob">•  les parents, le jardin d'enfants et / ou l'école s'inquiètent que l'enfant ne se développe pas conformément à ce qui est habituel pour un enfant de cet âge-là</p>
-    <p type="listitem" xml:lang="nob">•  on suspecte que l'élève ne tire pas un profit satisfaisant de l'enseignement L'élève ou les parents peuvent exiger que l'école effectue les examens nécessaires afin de déterminer si l'élève a besoin d'un enseignement spécialisé, et éventuellement le type d'enseignement dont il a besoin.</p>
-    <p xml:lang="nob">Le personnel enseignant doit :</p>
-    <p type="listitem" xml:lang="nob">•  évaluer si un élève a besoin d'un enseignement spécialisé</p>
-    <p type="listitem" xml:lang="nob">•  prévenir le directeur / le principal / le proviseur lorsqu'un tel besoin existe</p>
-    <p xml:lang="nob">Une démarche auprès du service PP doit, si possible, s'effectuer, de manière concertée entre le jardin d'enfants / l'école et les parents. Une démarche auprès du service PP ne peut se faire qu'avec le consentement des parents ou de l'élève (lorsque celui-ci est âgé de plus de 15 ans).</p>
-    <p xml:lang="nob">La commune / le canton fixe les directives et procédures sur la manière avec laquelle le jardin d'enfants / l'école renvoie les enfants / les élèves vers le service PP. Habituellement, on les envoie au service PP en complétant un formulaire de référence. Le jardin d'enfants / l'école joint un rapport pédagogique décrivant le développement de l'enfant / l'élève, ainsi que les mesures ayant été essayées.</p>
-    <p xml:lang="nob">Pour plus d'informations sur la manière de s'adresser au service PP, vous pouvez contacter la commune (pour les jardins d'enfants / crèches ou les écoles primaires et les collèges), ou le canton (pour les lycées).</p>
-    <p xml:lang="nob">Traitement des cas</p>
-    <p xml:lang="nob"><em type="bold">Étude de la situation </em>Lorsque le service PP reçoit une demande, il est habituel de clarifier ce que les parents, de manière concertée avec le jardin d'enfants ou l'école, attendent comme aide. Dans la plupart des cas, cela implique un souhait que le service PP effectue une expertise comportant une étude et des recommandations.  </p>
-    <p xml:lang="nob">L'étude peut être constituée</p>
-    <p type="listitem" xml:lang="nob">•  de l'évaluation et des mesures prises par le jardin d'enfants ou l'école</p>
-    <p type="listitem" xml:lang="nob">•  de l'avis d'autres instances, de conversations, d'observations et de tests de l'enfant / de l'élève</p>
-    <p xml:lang="nob">Pour les enfants pas encore en âge scolaire, l'étude doit être reliée aux besoins de l'enfant. Pour les élèves scolarisés, l'étude comportera à la fois les caractéristiques en matière d'apprentissage et les possibilités pour l'école de s'adapter à celui-ci au sein de l'offre d'enseignement ordinaire.</p>
-    <p xml:lang="nob"><em type="bold">Recommandations </em>Sur la base de cette étude, le service PP donnera ses recommandations écrites sous la forme d'une expertise des besoins spécifiques de l'enfant / l'élève.  </p>
-    <p xml:lang="nob">Cette évaluation</p>
-    <p type="listitem" xml:lang="nob">•  indiquera si l'enfant / l'élève a besoin d'une aide pédagogique spécialisée en vertu de l'article 5-7 de la loi sur l'enseignement ou d'un enseignement spécialisé en vertu de l'article 5-1 de la loi sur l'enseignement.</p>
-    <p type="listitem" xml:lang="nob">•  donnera des conseils sur le type d'aide / d'offre d'enseignement devant être proposé.</p>
-    <p xml:lang="nob">Si l'enfant a droit à une aide pédagogique spécialisée en vertu de l'article 5-7 de la loi sur</p>
-    <p xml:lang="nob">l'enseignement, le conseil aux parents fera partie du service offert.</p>
-    <p xml:lang="nob">Pour les enfants pas encore en âge scolaire, les recommandations écrites du service PP devront comporter</p>
-    <p type="listitem" xml:lang="nob">•  le type d'aide pédagogique spécialisée qui permettra à l'enfant de se développer de manière <span type="quote" xml:lang="nob">« défendable »</span></p>
-    <p type="listitem" xml:lang="nob">•  les objectifs réalistes de développement et d'apprentissage pour l'enfant</p>
-    <p xml:lang="nob">Pour les élèves scolarisés, les recommandations écrites du service PP devront comporter une évaluation des points suivants</p>
-    <p type="listitem" xml:lang="nob">•  peut-on remédier aux difficultés de l'élève dans le cadre de l'offre d'enseignement ordinaire ?</p>
-    <p type="listitem" xml:lang="nob">•  le type d'enseignement qui offrira un enseignement <span type="quote" xml:lang="nob">« défendable »</span></p>
-    <p type="listitem" xml:lang="nob">•  les objectifs d'enseignement réalistes pour l'élève</p>
-    <p xml:lang="nob">Le service PP doit consulter l'élève et / ou les parents dans son travail d'expertise et accorder beaucoup d’importance à l'avis de ces derniers.</p>
-    <p xml:lang="nob">Lorsqu'une expertise (étude et recommandations) existe, les parents</p>
-    <p type="listitem" xml:lang="nob">•  des enfants pas encore en âge scolaire doivent consentir à ce que la commune / le propriétaire du jardin d'enfants se base sur l'expertise pour prendre une décision à caractère unique, et consentir à ce que la commune / le propriétaire du jardin d'enfants mette en œuvre la ou les mesures que le service PP a recommandée(s)</p>
-    <p type="listitem" xml:lang="nob">•  des élèves à l'école où les élèves de plus de 15 ans doivent consentir à ce que le propriétaire de l'école / l'école se base sur l'expertise pour prendre une décision à</p>
-    <p xml:lang="nob">caractère unique, et consentir à ce que le propriétaire de l'école / l'école mette en œuvre la ou les mesures que le service PP a recommandée(s)</p>
-    <p xml:lang="nob">À propos de Statped</p>
-    <p xml:lang="nob">Au besoin, le service PP peut rechercher une aide pédagogique spécialisée gouvernementale auprès de Statped.</p>
-    <p xml:lang="nob">Statped</p>
-    <p type="listitem" xml:lang="nob">•  contribue à ce que les enfants, les adolescents et les adultes ayant des besoins d'enseignement particuliers puissent recevoir de bonnes offres conformément à la loi sur l'enseignement (opplæringsloven), afin qu'ils puissent être des participants actifs à la formation, au monde du travail et dans la société</p>
-    <p type="listitem" xml:lang="nob">•  développe les compétences et transmet des connaissances sur les enseignements spécialisés et un enseignement équitable, adapté / sur-mesure et incluant tout le</p>
-    <p xml:lang="nob">monde</p>
-    <p type="listitem" xml:lang="nob">•  joue un rôle de moteur pour développer les domaines professionnels de la pédagogie spécialisée concernant l'ouïe, la vue, la langue / la parole, les lésions non</p>
-    <p xml:lang="nob">congénitales du cerveau, les difficultés d'apprentissage complexes et la surdicécité</p>
-    <p type="listitem" xml:lang="nob">•  dispose d'une compétence en matière de ressources d'apprentissage pour les enfants, les adolescents et les adultes ayant des besoins d'enseignement particuliers</p>
-    <p xml:lang="nob">Pour obtenir plus d’informations, veuillez vous rendre sur le site :<em type="italic"> www.statped.no.</em> </p>
-    <p xml:lang="nob">À propos de NAFO, le centre national pour l'enseignement multiculturel (<em type="italic">Nasjonalt senter for flerkulturell opplæring</em>) </p>
-    <p xml:lang="nob">Il n'est pas toujours aisé d'évaluer les raisons à l'origine de difficultés d'apprentissage touchant les enfants / les élèves de langue natale minoritaire. Le manque de compréhension de la langue norvégienne est-il le défi majeur, ou bien existent-ils d'autres raisons rendant l'apprentissage difficile ?</p>
-    <p xml:lang="nob">Les missions de NAFO sont, entre autres, de contribuer à ce que</p>
-    <p type="listitem" xml:lang="nob">•  la politique nationale en matière d'enseignement soit mise en œuvre et réalisée de telle sorte que les enfants, les adolescents et les adultes puissent recevoir un enseignement équitable et adapté / sur-mesure de grande qualité, ceci dans une communauté les incluant.</p>
-    <p type="listitem" xml:lang="nob">•  les perspectives multiculturelles soient préservées au jardin d'enfants, au primaire et au collège.</p>
-    <p type="listitem" xml:lang="nob">•  la qualité augmente dans l'offre d'enseignement aux personnes de langue minoritaire et dans le travail consistant à développer une communauté d'apprentissage multiculturelle et qui rassemble, aussi bien au jardin d'enfants, au primaire qu'au collège.</p>
-    <p xml:lang="nob">Les professeurs, directeurs d'école, les propriétaires de jardins d'enfants et d'écoles et le personnel pédagogique des jardins d'enfants représentent les groupes cibles centraux de l'organisation. Le centre assiste le secteur des universités et écoles supérieures (<em type="italic">UH</em>) / les institutions de formation des professeurs dans le travail d'investissement sur le développement des compétences. </p>
-    <p xml:lang="nob">Pour obtenir plus d’informations, veuillez vous rendre sur le site :<em type="italic"> http://www.hioa.no/Om-HiOA/NAFO </em></p>
-  </body>
-</document>
+<document xml:lang="fra" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>1817</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="fra"/></multilingual><origFileName>http://www.udir.no/globalassets/upload/pp_tjenesten/ppt_fransk_informasjon.pdf</origFileName><parallel_text xml:lang="eng" location="ppt_engelsk_informasjon.pdf"/><parallel_text xml:lang="nno" location="ppt_nynorsk-informasjon.pdf"/><parallel_text xml:lang="nob" location="ppt_norsk_bokmal_informasjon.pdf"/><parallel_text xml:lang="rus" location="ppt_russisk_informasjon.pdf"/><parallel_text xml:lang="sma" location="sorsamisk.pdf"/><parallel_text xml:lang="smj" location="lulesamsisk-2.pdf"/><parallel_text location="ppt_arabisk_informasjon.pdf" xml:lang="ara"/><parallel_text location="ppt_sorani_informasjon.pdf" xml:lang="ckb"/><parallel_text location="ppt_urdu_informasjon.pdf" xml:lang="urd"/><parallel_text location="ppt_vietnamesisk_informasjon.pdf" xml:lang="vie"/><parallel_text location="ppt_somalisk_informasjon.pdf" xml:lang="som"/><parallel_text location="ppt_tyrkisk_informasjon.pdf" xml:lang="tur"/><parallel_text location="ppt_persisk_informasjon.pdf" xml:lang="fas"/><parallel_text location="ppt_polsk_informasjon.pdf" xml:lang="pol"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nob">Le service psycho-pédagogique (service PP)</p>
+<p xml:lang="nob">Le service psycho-pédagogique (service PP) est un service de conseils et une instance d'expertise dans le domaine du développement, de l'apprentissage et du bien-être des enfants pas encore scolarisés et des élèves de l'école primaire au bac. Le service PP aide également les adultes ayant un besoin d'enseignement de niveau école primaire / collège.  Le travail du service PP est régi par la loi sur l'enseignement. Le service PP est une ressource professionnelle pour les jardins d'enfants / les crèches/ les écoles. Il permet d'améliorer l'enseignement pour les enfants et les élèves ayant des besoins spécifiques.</p>
+<p xml:lang="nob">Le service PP</p>
+<p type="listitem" xml:lang="nob">•  peut, entre autres, offrir un conseil et des instructions aux jardins d'enfants / crèches et aux écoles sur la gestion pédagogique des conditions de groupe et d'apprentissage.</p>
+<p type="listitem" xml:lang="nob">•  assiste les écoles dans le développement des compétences et des organisations, et doit veiller à ce qu'une expertise soit réalisée là où la loi sur l'enseignement l'exige. Elle donner des conseils et des instructions aux jardins d'enfants et aux écoles sur l'adaptation aux enfants et aux élèves qui ont besoin d'un traitement particulier</p>
+<p type="listitem" xml:lang="nob">•  est un service communal imposé par la loi et régi par l'article 5-6 de la loi sur l'enseignement. Ce service peut être organisé de manière intercommunale. Les</p>
+<p xml:lang="nob">communes et cantons peuvent en effet se regrouper en services communs.</p>
+<p type="listitem" xml:lang="nob">•  est tenu au secret professionnel : tous les renseignements collectés sont conservés dans un dossier spécifique conformément aux directives de L'inspection nationale de</p>
+<p xml:lang="nob">la protection des données (<em type="italic">Datatilsynet</em>) </p>
+<p type="listitem" xml:lang="nob">•  est l'instance experte de la commune / du canton en ce qui concerne l'évaluation des droits inscrits dans la loi sur l'enseignement</p>
+<p xml:lang="nob">Les communes et cantons reçoivent des conseils de la part du service PP dans les cas suivants :</p>
+<p type="listitem" xml:lang="nob">•  aide pédagogique pour l'enfant en âge scolaire (cf. l'article 5-7)</p>
+<p type="listitem" xml:lang="nob">•  enseignement spécialisé à l'école (cf. l'article 5-1) et pour les adultes ayant un besoin d'enseignement de niveau école primaire et collège (cf. l'article 4a-2)</p>
+<p type="listitem" xml:lang="nob">•  démarrage précoce à l'école (cf. le troisième alinéa de l'article 2-1)</p>
+<p type="listitem" xml:lang="nob">•  démarrage à l'école reporté/retardé (cf. le troisième alinéa de l'article 2-1)</p>
+<p type="listitem" xml:lang="nob">•  dispense d'obligation d'enseignement (cf. le quatrième alinéa de l'article 2-1)</p>
+<p type="listitem" xml:lang="nob">•  enseignement dans la langue des signes avant l'âge scolaire et à l'école primaire et au collège (cf. l'article 2-6), ainsi qu'au lycée (cf. l'article 3-9)</p>
+<p type="listitem" xml:lang="nob">•  enseignement en braille et autres à l'école primaire et au collège (cf. l'article 2-14), ainsi qu'au lycée (cf. l'article 3-10)</p>
+<p type="listitem" xml:lang="nob">•  admission particulière dans les lycées (cf. le sixième alinéa de l'article 3-1)</p>
+<p type="listitem" xml:lang="nob">•  durée d'enseignement élargie au lycée (cf. le cinquième alinéa de l'article 3-1)</p>
+<p xml:lang="nob">Missions</p>
+<p xml:lang="nob">Le service PP étudie la situation et donne des conseils et instructions à propos d'enfants, d'adolescents et d'adultes devant faire face à des défis pouvant avoir des conséquences sur leur apprentissage.</p>
+<p xml:lang="nob">Les défis rencontrés sont, par exemple :</p>
+<p type="listitem" xml:lang="nob">•  des difficultés de langage et d'expression</p>
+<p type="listitem" xml:lang="nob">•  des difficultés générales d'apprentissage ou difficultés non liées à des difficultés d'apprentissage</p>
+<p type="listitem" xml:lang="nob">•  des difficultés en lecture et en écriture</p>
+<p type="listitem" xml:lang="nob">•  des difficultés en mathématiques</p>
+<p type="listitem" xml:lang="nob">•  des difficultés de type non-verbal dans l'apprentissage</p>
+<p type="listitem" xml:lang="nob">•  des difficultés de concentration</p>
+<p type="listitem" xml:lang="nob">•  des difficultés sociales et émotionnelles</p>
+<p type="listitem" xml:lang="nob">•  des difficultés de comportement •  des difficultés liées à une mauvaise vue ou à une mauvaise ouïe</p>
+<p xml:lang="nob">Contact</p>
+<p xml:lang="nob">Les élèves de plus de 15 ans, leurs parents / responsables, les jardins d'enfants / crèches, les écoles et éventuellement d'autres instances, par exemple une infirmière, peuvent contacter le service PP pour obtenir des conseils. Si une inquiétude autour du développement et d'apprentissage de l'enfant règne, il est possible de soulever cette question de manière anonyme auprès du service PP avant de formaliser le souci sous la forme d'une démarche / demande concrète.</p>
+<p xml:lang="nob">Démarche / demande</p>
+<p xml:lang="nob">Avant qu'un cas soit envoyé au service PP, il faut se renseigner pour savoir si l'école a essayé de mettre en œuvre d'autres mesures à l'intérieur du cadre habituel dont elle dispose. Les besoins des enfants pas encore en âge scolaire doivent être évalués indépendamment des mesures éventuelles déjà prises par le jardin d'enfants.</p>
+<p xml:lang="nob">Un cas peut être envoyé au service PP pour être étudié et évalué si</p>
+<p type="listitem" xml:lang="nob">•  les parents, le jardin d'enfants et / ou l'école s'inquiètent que l'enfant ne se développe pas conformément à ce qui est habituel pour un enfant de cet âge-là</p>
+<p type="listitem" xml:lang="nob">•  on suspecte que l'élève ne tire pas un profit satisfaisant de l'enseignement L'élève ou les parents peuvent exiger que l'école effectue les examens nécessaires afin de déterminer si l'élève a besoin d'un enseignement spécialisé, et éventuellement le type d'enseignement dont il a besoin.</p>
+<p xml:lang="nob">Le personnel enseignant doit :</p>
+<p type="listitem" xml:lang="nob">•  évaluer si un élève a besoin d'un enseignement spécialisé</p>
+<p type="listitem" xml:lang="nob">•  prévenir le directeur / le principal / le proviseur lorsqu'un tel besoin existe</p>
+<p xml:lang="nob">Une démarche auprès du service PP doit, si possible, s'effectuer, de manière concertée entre le jardin d'enfants / l'école et les parents. Une démarche auprès du service PP ne peut se faire qu'avec le consentement des parents ou de l'élève (lorsque celui-ci est âgé de plus de 15 ans).</p>
+<p xml:lang="nob">La commune / le canton fixe les directives et procédures sur la manière avec laquelle le jardin d'enfants / l'école renvoie les enfants / les élèves vers le service PP. Habituellement, on les envoie au service PP en complétant un formulaire de référence. Le jardin d'enfants / l'école joint un rapport pédagogique décrivant le développement de l'enfant / l'élève, ainsi que les mesures ayant été essayées.</p>
+<p xml:lang="nob">Pour plus d'informations sur la manière de s'adresser au service PP, vous pouvez contacter la commune (pour les jardins d'enfants / crèches ou les écoles primaires et les collèges), ou le canton (pour les lycées).</p>
+<p xml:lang="nob">Traitement des cas</p>
+<p xml:lang="nob"><em type="bold">Étude de la situation </em>Lorsque le service PP reçoit une demande, il est habituel de clarifier ce que les parents, de manière concertée avec le jardin d'enfants ou l'école, attendent comme aide. Dans la plupart des cas, cela implique un souhait que le service PP effectue une expertise comportant une étude et des recommandations.  </p>
+<p xml:lang="nob">L'étude peut être constituée</p>
+<p type="listitem" xml:lang="nob">•  de l'évaluation et des mesures prises par le jardin d'enfants ou l'école</p>
+<p type="listitem" xml:lang="nob">•  de l'avis d'autres instances, de conversations, d'observations et de tests de l'enfant / de l'élève</p>
+<p xml:lang="nob">Pour les enfants pas encore en âge scolaire, l'étude doit être reliée aux besoins de l'enfant. Pour les élèves scolarisés, l'étude comportera à la fois les caractéristiques en matière d'apprentissage et les possibilités pour l'école de s'adapter à celui-ci au sein de l'offre d'enseignement ordinaire.</p>
+<p xml:lang="nob"><em type="bold">Recommandations </em>Sur la base de cette étude, le service PP donnera ses recommandations écrites sous la forme d'une expertise des besoins spécifiques de l'enfant / l'élève.  </p>
+<p xml:lang="nob">Cette évaluation</p>
+<p type="listitem" xml:lang="nob">•  indiquera si l'enfant / l'élève a besoin d'une aide pédagogique spécialisée en vertu de l'article 5-7 de la loi sur l'enseignement ou d'un enseignement spécialisé en vertu de l'article 5-1 de la loi sur l'enseignement.</p>
+<p type="listitem" xml:lang="nob">•  donnera des conseils sur le type d'aide / d'offre d'enseignement devant être proposé.</p>
+<p xml:lang="nob">Si l'enfant a droit à une aide pédagogique spécialisée en vertu de l'article 5-7 de la loi sur</p>
+<p xml:lang="nob">l'enseignement, le conseil aux parents fera partie du service offert.</p>
+<p xml:lang="nob">Pour les enfants pas encore en âge scolaire, les recommandations écrites du service PP devront comporter</p>
+<p type="listitem" xml:lang="nob">•  le type d'aide pédagogique spécialisée qui permettra à l'enfant de se développer de manière <span type="quote" xml:lang="nob">« défendable »</span></p>
+<p type="listitem" xml:lang="nob">•  les objectifs réalistes de développement et d'apprentissage pour l'enfant</p>
+<p xml:lang="nob">Pour les élèves scolarisés, les recommandations écrites du service PP devront comporter une évaluation des points suivants</p>
+<p type="listitem" xml:lang="nob">•  peut-on remédier aux difficultés de l'élève dans le cadre de l'offre d'enseignement ordinaire ?</p>
+<p type="listitem" xml:lang="nob">•  le type d'enseignement qui offrira un enseignement <span type="quote" xml:lang="nob">« défendable »</span></p>
+<p type="listitem" xml:lang="nob">•  les objectifs d'enseignement réalistes pour l'élève</p>
+<p xml:lang="nob">Le service PP doit consulter l'élève et / ou les parents dans son travail d'expertise et accorder beaucoup d’importance à l'avis de ces derniers.</p>
+<p xml:lang="nob">Lorsqu'une expertise (étude et recommandations) existe, les parents</p>
+<p type="listitem" xml:lang="nob">•  des enfants pas encore en âge scolaire doivent consentir à ce que la commune / le propriétaire du jardin d'enfants se base sur l'expertise pour prendre une décision à caractère unique, et consentir à ce que la commune / le propriétaire du jardin d'enfants mette en œuvre la ou les mesures que le service PP a recommandée(s)</p>
+<p type="listitem" xml:lang="nob">•  des élèves à l'école où les élèves de plus de 15 ans doivent consentir à ce que le propriétaire de l'école / l'école se base sur l'expertise pour prendre une décision à</p>
+<p xml:lang="nob">caractère unique, et consentir à ce que le propriétaire de l'école / l'école mette en œuvre la ou les mesures que le service PP a recommandée(s)</p>
+<p xml:lang="nob">À propos de Statped</p>
+<p xml:lang="nob">Au besoin, le service PP peut rechercher une aide pédagogique spécialisée gouvernementale auprès de Statped.</p>
+<p xml:lang="nob">Statped</p>
+<p type="listitem" xml:lang="nob">•  contribue à ce que les enfants, les adolescents et les adultes ayant des besoins d'enseignement particuliers puissent recevoir de bonnes offres conformément à la loi sur l'enseignement (opplæringsloven), afin qu'ils puissent être des participants actifs à la formation, au monde du travail et dans la société</p>
+<p type="listitem" xml:lang="nob">•  développe les compétences et transmet des connaissances sur les enseignements spécialisés et un enseignement équitable, adapté / sur-mesure et incluant tout le</p>
+<p xml:lang="nob">monde</p>
+<p type="listitem" xml:lang="nob">•  joue un rôle de moteur pour développer les domaines professionnels de la pédagogie spécialisée concernant l'ouïe, la vue, la langue / la parole, les lésions non</p>
+<p xml:lang="nob">congénitales du cerveau, les difficultés d'apprentissage complexes et la surdicécité</p>
+<p type="listitem" xml:lang="nob">•  dispose d'une compétence en matière de ressources d'apprentissage pour les enfants, les adolescents et les adultes ayant des besoins d'enseignement particuliers</p>
+<p xml:lang="nob">Pour obtenir plus d’informations, veuillez vous rendre sur le site :<em type="italic"> www.statped.no.</em> </p>
+<p xml:lang="nob">À propos de NAFO, le centre national pour l'enseignement multiculturel (<em type="italic">Nasjonalt senter for flerkulturell opplæring</em>) </p>
+<p xml:lang="nob">Il n'est pas toujours aisé d'évaluer les raisons à l'origine de difficultés d'apprentissage touchant les enfants / les élèves de langue natale minoritaire. Le manque de compréhension de la langue norvégienne est-il le défi majeur, ou bien existent-ils d'autres raisons rendant l'apprentissage difficile ?</p>
+<p xml:lang="nob">Les missions de NAFO sont, entre autres, de contribuer à ce que</p>
+<p type="listitem" xml:lang="nob">•  la politique nationale en matière d'enseignement soit mise en œuvre et réalisée de telle sorte que les enfants, les adolescents et les adultes puissent recevoir un enseignement équitable et adapté / sur-mesure de grande qualité, ceci dans une communauté les incluant.</p>
+<p type="listitem" xml:lang="nob">•  les perspectives multiculturelles soient préservées au jardin d'enfants, au primaire et au collège.</p>
+<p type="listitem" xml:lang="nob">•  la qualité augmente dans l'offre d'enseignement aux personnes de langue minoritaire et dans le travail consistant à développer une communauté d'apprentissage multiculturelle et qui rassemble, aussi bien au jardin d'enfants, au primaire qu'au collège.</p>
+<p xml:lang="nob">Les professeurs, directeurs d'école, les propriétaires de jardins d'enfants et d'écoles et le personnel pédagogique des jardins d'enfants représentent les groupes cibles centraux de l'organisation. Le centre assiste le secteur des universités et écoles supérieures (<em type="italic">UH</em>) / les institutions de formation des professeurs dans le travail d'investissement sur le développement des compétences. </p>
+<p xml:lang="nob">Pour obtenir plus d’informations, veuillez vous rendre sur le site :<em type="italic"> http://www.hioa.no/Om-HiOA/NAFO </em></p>
+</body></document>

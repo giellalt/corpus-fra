@@ -1,61 +1,32 @@
-<document xml:lang="fra" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>344</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="fra"/>
-      <language xml:lang="swe"/>
-    </multilingual>
-    <origFileName>http://www.ostersund.se/download/18.3e11750b14ae81c49054d3/1421235305837/Franska.pdf</origFileName>
-    <parallel_text xml:lang="eng" location="engelska.pdf"/>
-    <parallel_text xml:lang="rus" location="ryska.pdf"/>
-    <parallel_text xml:lang="sma" location="sydsamiska.pdf"/>
-    <parallel_text xml:lang="swe" location="svenska.pdf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">École/École maternelle  :    Classe/section :   Nom et prénom de l'élève :</p>
-    <p xml:lang="swe">Nom du tuteur :</p>
-    <p xml:lang="swe">Nom du tuteur :</p>
-    <p xml:lang="swe">Téléphone domicile :</p>
-    <p xml:lang="swe">Portable :</p>
-    <p xml:lang="swe">Téléphone domicile :</p>
-    <p xml:lang="swe">Portable : Adresse électronique :</p>
-    <p xml:lang="swe">Adresse électronique :</p>
-    <p xml:lang="swe"> <em type="bold"> Régime souhaité :          Cocher       Allergie / Hypersensibilité au :                     Cocher </em>Régime sans sang et sans abats  Régime sans viande de porc  Régime végétarien, lait et oeufs  Régime végétarien, lait et oeufs + poisson  Régime végétarien, lait et oeufs + poisson + volaille  Régime sans gluten  Régime délactosé  Régime sans produits laitiers  </p>
-    <p xml:lang="swe">Poisson  Volaille  Carotte  Tomate  Poivron</p>
-    <p xml:lang="swe">Soja (légumineuses)  Lécithine de soja (E322)</p>
-    <p xml:lang="swe">Oeuf</p>
-    <p xml:lang="swe">Souhaite rencontre le personnel de cuisine avec un interprète</p>
-    <p xml:lang="swe">Signature et accord pour le regitre des personnes* Date :</p>
-    <p xml:lang="swe">Signature du tuteur légal :</p>
-    <p xml:lang="swe">Date : Signature du tuteur légal :</p>
-    <p xml:lang="swe">-------------------------------------------------------------------------------------------------------------------------------</p>
-    <p xml:lang="swe"> <em type="bold">Information sur la nourriture à l'école maternelle et l'école Un bon repas</em> </p>
-    <p xml:lang="swe">Le modèle d'assiette montre les proportions   appropriées entre les différentes parties d'un repas  pour avoir un bon équilibre diététique</p>
-    <p xml:lang="swe">photo : Peter Adamsson</p>
-    <p type="listitem" xml:lang="swe">• Les cacahuètes, noisettes et amandes ne sont pas</p>
-    <p xml:lang="swe">autorisées à l'école/école maternelle et il n'en est donc pas servi.  Pour des raisons liées aux allergies il n'est pas                                                              non plus servi de graines de sésame.</p>
-    <p type="listitem" xml:lang="swe">• Il est servi aux élèves/enfants qui pour des raisons éthiques</p>
-    <p xml:lang="swe">ne mangent pas de viande, un régime végétarien avec lait  et oeufs (qui contient des produits laitiers et des oeufs).</p>
-    <p type="listitem" xml:lang="swe">• Ne pas donner aux élèves/enfants de la nourriture venant</p>
-    <p xml:lang="swe">de la maison ! La cuisine n'est pas responsable de la conservation et servir la nourriture apportée.</p>
-    <p type="listitem" xml:lang="swe">• Informer la cuisine lorsque l'élève/enfant est malade ou en</p>
-    <p xml:lang="swe">congé. Ainsi nous n'aurons pas besoin de préparer le repas ni de le jeter.</p>
-    <p type="listitem" xml:lang="swe">• Numéro de téléphone de la cuisine :</p>
-    <p xml:lang="swe">*Pour faire en sorte que votre enfant reçoive une alimentation adaptée son nom et son régime particulier sont enregistrés dans un registre/programme alimentaire. L'enregistrement est d'une grande aide et nous donne la possibilité de marquer la nourriture avec les noms pour assurer une préparation et un service sécurisé. L'enregistrement d'élèves/enfants mineurs nécessite</p>
-    <p xml:lang="swe">__________________</p>
-  </body>
-</document>
+<document xml:lang="fra" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>344</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="fra"/><language xml:lang="swe"/></multilingual><origFileName>http://www.ostersund.se/download/18.3e11750b14ae81c49054d3/1421235305837/Franska.pdf</origFileName><parallel_text xml:lang="eng" location="engelska.pdf"/><parallel_text xml:lang="rus" location="ryska.pdf"/><parallel_text xml:lang="sma" location="sydsamiska.pdf"/><parallel_text xml:lang="swe" location="svenska.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">École/École maternelle  :    Classe/section :   Nom et prénom de l'élève :</p>
+<p xml:lang="swe">Nom du tuteur :</p>
+<p xml:lang="swe">Nom du tuteur :</p>
+<p xml:lang="swe">Téléphone domicile :</p>
+<p xml:lang="swe">Portable :</p>
+<p xml:lang="swe">Téléphone domicile :</p>
+<p xml:lang="swe">Portable : Adresse électronique :</p>
+<p xml:lang="swe">Adresse électronique :</p>
+<p xml:lang="swe"> <em type="bold"> Régime souhaité :          Cocher       Allergie / Hypersensibilité au :                     Cocher </em>Régime sans sang et sans abats  Régime sans viande de porc  Régime végétarien, lait et oeufs  Régime végétarien, lait et oeufs + poisson  Régime végétarien, lait et oeufs + poisson + volaille  Régime sans gluten  Régime délactosé  Régime sans produits laitiers  </p>
+<p xml:lang="swe">Poisson  Volaille  Carotte  Tomate  Poivron</p>
+<p xml:lang="swe">Soja (légumineuses)  Lécithine de soja (E322)</p>
+<p xml:lang="swe">Oeuf</p>
+<p xml:lang="swe">Souhaite rencontre le personnel de cuisine avec un interprète</p>
+<p xml:lang="swe">Signature et accord pour le regitre des personnes* Date :</p>
+<p xml:lang="swe">Signature du tuteur légal :</p>
+<p xml:lang="swe">Date : Signature du tuteur légal :</p>
+<p xml:lang="swe">-------------------------------------------------------------------------------------------------------------------------------</p>
+<p xml:lang="swe"> <em type="bold">Information sur la nourriture à l'école maternelle et l'école Un bon repas</em> </p>
+<p xml:lang="swe">Le modèle d'assiette montre les proportions   appropriées entre les différentes parties d'un repas  pour avoir un bon équilibre diététique</p>
+<p xml:lang="swe">photo : Peter Adamsson</p>
+<p type="listitem" xml:lang="swe">• Les cacahuètes, noisettes et amandes ne sont pas</p>
+<p xml:lang="swe">autorisées à l'école/école maternelle et il n'en est donc pas servi.  Pour des raisons liées aux allergies il n'est pas                                                              non plus servi de graines de sésame.</p>
+<p type="listitem" xml:lang="swe">• Il est servi aux élèves/enfants qui pour des raisons éthiques</p>
+<p xml:lang="swe">ne mangent pas de viande, un régime végétarien avec lait  et oeufs (qui contient des produits laitiers et des oeufs).</p>
+<p type="listitem" xml:lang="swe">• Ne pas donner aux élèves/enfants de la nourriture venant</p>
+<p xml:lang="swe">de la maison ! La cuisine n'est pas responsable de la conservation et servir la nourriture apportée.</p>
+<p type="listitem" xml:lang="swe">• Informer la cuisine lorsque l'élève/enfant est malade ou en</p>
+<p xml:lang="swe">congé. Ainsi nous n'aurons pas besoin de préparer le repas ni de le jeter.</p>
+<p type="listitem" xml:lang="swe">• Numéro de téléphone de la cuisine :</p>
+<p xml:lang="swe">*Pour faire en sorte que votre enfant reçoive une alimentation adaptée son nom et son régime particulier sont enregistrés dans un registre/programme alimentaire. L'enregistrement est d'une grande aide et nous donne la possibilité de marquer la nourriture avec les noms pour assurer une préparation et un service sécurisé. L'enregistrement d'élèves/enfants mineurs nécessite</p>
+<p xml:lang="swe">__________________</p>
+</body></document>
