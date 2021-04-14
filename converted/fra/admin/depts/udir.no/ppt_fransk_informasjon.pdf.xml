@@ -1,5 +1,4 @@
-<document xml:lang="fra" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>1823</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="fra"/></multilingual><origFileName>http://www.udir.no/globalassets/upload/pp_tjenesten/ppt_fransk_informasjon.pdf</origFileName><parallel_text xml:lang="eng" location="ppt_engelsk_informasjon.pdf"/><parallel_text xml:lang="nno" location="ppt_nynorsk-informasjon.pdf"/><parallel_text xml:lang="nob" location="ppt_norsk_bokmal_informasjon.pdf"/><parallel_text xml:lang="rus" location="ppt_russisk_informasjon.pdf"/><parallel_text xml:lang="sma" location="sorsamisk.pdf"/><parallel_text xml:lang="smj" location="lulesamsisk-2.pdf"/><parallel_text location="ppt_arabisk_informasjon.pdf" xml:lang="ara"/><parallel_text location="ppt_sorani_informasjon.pdf" xml:lang="ckb"/><parallel_text location="ppt_urdu_informasjon.pdf" xml:lang="urd"/><parallel_text location="ppt_vietnamesisk_informasjon.pdf" xml:lang="vie"/><parallel_text location="ppt_somalisk_informasjon.pdf" xml:lang="som"/><parallel_text location="ppt_tyrkisk_informasjon.pdf" xml:lang="tur"/><parallel_text location="ppt_persisk_informasjon.pdf" xml:lang="fas"/><parallel_text location="ppt_polsk_informasjon.pdf" xml:lang="pol"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Version finale du 19/11/2012 révisée le 06/12/2012</p>
-<p>Le service psycho-pédagogique (service PP)</p>
+<document xml:lang="fra" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>1781</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="fra"/></multilingual><origFileName>http://www.udir.no/globalassets/upload/pp_tjenesten/ppt_fransk_informasjon.pdf</origFileName><parallel_text xml:lang="eng" location="ppt_engelsk_informasjon.pdf"/><parallel_text xml:lang="nno" location="ppt_nynorsk-informasjon.pdf"/><parallel_text xml:lang="nob" location="ppt_norsk_bokmal_informasjon.pdf"/><parallel_text xml:lang="rus" location="ppt_russisk_informasjon.pdf"/><parallel_text xml:lang="sma" location="sorsamisk.pdf"/><parallel_text xml:lang="smj" location="lulesamsisk-2.pdf"/><parallel_text location="ppt_arabisk_informasjon.pdf" xml:lang="ara"/><parallel_text location="ppt_sorani_informasjon.pdf" xml:lang="ckb"/><parallel_text location="ppt_urdu_informasjon.pdf" xml:lang="urd"/><parallel_text location="ppt_vietnamesisk_informasjon.pdf" xml:lang="vie"/><parallel_text location="ppt_somalisk_informasjon.pdf" xml:lang="som"/><parallel_text location="ppt_tyrkisk_informasjon.pdf" xml:lang="tur"/><parallel_text location="ppt_persisk_informasjon.pdf" xml:lang="fas"/><parallel_text location="ppt_polsk_informasjon.pdf" xml:lang="pol"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Le service psycho-pédagogique (service PP)</p>
 <p>Le service psycho-pédagogique (service PP) est un service de conseils et une instance d'expertise dans le domaine du développement, de l'apprentissage et du bien-être des enfants pas encore scolarisés et des élèves de l'école primaire au bac. Le service PP aide également les adultes ayant un besoin d'enseignement de niveau école primaire / collège.</p>
 <p>Le travail du service PP est régi par la loi sur l'enseignement. Le service PP est une ressource professionnelle pour les jardins d'enfants / les crèches/ les écoles. Il permet d'améliorer l'enseignement pour les enfants et les élèves ayant des besoins spécifiques.</p>
 <p type="listitem">Le service PP</p>
@@ -19,7 +18,6 @@
 <p type="listitem">enseignement en braille et autres à l'école primaire et au collège (cf. l'article 2-14), ainsi qu'au lycée (cf. l'article 3-10)</p>
 <p type="listitem">admission particulière dans les lycées (cf. le sixième alinéa de l'article 3-1)</p>
 <p type="listitem">durée d'enseignement élargie au lycée (cf. le cinquième alinéa de l'article 3-1)</p>
-<p>Version finale du 19/11/2012 révisée le 06/12/2012</p>
 <p>Missions</p>
 <p>Le service PP étudie la situation et donne des conseils et instructions à propos d'enfants, d'adolescents et d'adultes devant faire face à des défis pouvant avoir des conséquences sur leur apprentissage.</p>
 <p type="listitem">Les défis rencontrés sont, par exemple :</p>
@@ -39,7 +37,6 @@
 <p type="listitem">Un cas peut être envoyé au service PP pour être étudié et évalué si</p>
 <p type="listitem">les parents, le jardin d'enfants et / ou l'école s'inquiètent que l'enfant ne se développe pas conformément à ce qui est habituel pour un enfant de cet âge-là</p>
 <p type="listitem">on suspecte que l'élève ne tire pas un profit satisfaisant de l'enseignement</p>
-<p>Version finale du 19/11/2012 révisée le 06/12/2012</p>
 <p>L'élève ou les parents peuvent exiger que l'école effectue les examens nécessaires afin de déterminer si l'élève a besoin d'un enseignement spécialisé, et éventuellement le type d'enseignement dont il a besoin.</p>
 <p type="listitem">Le personnel enseignant doit :</p>
 <p type="listitem">évaluer si un élève a besoin d'un enseignement spécialisé</p>
@@ -57,7 +54,6 @@
 <p>Pour les élèves scolarisés, l'étude comportera à la fois les caractéristiques en matière d'apprentissage et les possibilités pour l'école de s'adapter à celui-ci au sein de l'offre d'enseignement ordinaire.</p>
 <p><em type="bold">Recommandations </em></p>
 <p>Sur la base de cette étude, le service PP donnera ses recommandations écrites sous la forme d'une expertise des besoins spécifiques de l'enfant / l'élève.</p>
-<p>Version finale du 19/11/2012 révisée le 06/12/2012</p>
 <p type="listitem">Cette évaluation</p>
 <p type="listitem">indiquera si l'enfant / l'élève a besoin d'une aide pédagogique spécialisée en vertu de l'article 5-7 de la loi sur l'enseignement ou d'un enseignement spécialisé en vertu de l'article 5-1 de la loi sur l'enseignement.</p>
 <p type="listitem">donnera des conseils sur le type d'aide / d'offre d'enseignement devant être proposé.</p>
@@ -73,7 +69,6 @@
 <p type="listitem">Lorsqu'une expertise (étude et recommandations) existe, les parents</p>
 <p type="listitem">des enfants pas encore en âge scolaire doivent consentir à ce que la commune / le propriétaire du jardin d'enfants se base sur l'expertise pour prendre une décision à caractère unique, et consentir à ce que la commune / le propriétaire du jardin d'enfants mette en œuvre la ou les mesures que le service PP a recommandée(s)</p>
 <p type="listitem">des élèves à l'école où les élèves de plus de 15 ans doivent consentir à ce que le propriétaire de l'école / l'école se base sur l'expertise pour prendre une décision à caractère unique, et consentir à ce que le propriétaire de l'école / l'école mette en œuvre la ou les mesures que le service PP a recommandée(s)</p>
-<p>Version finale du 19/11/2012 révisée le 06/12/2012</p>
 <p>À propos de Statped</p>
 <p>Au besoin, le service PP peut rechercher une aide pédagogique spécialisée gouvernementale auprès de Statped.</p>
 <p type="listitem" xml:lang="nob">Statped</p>
@@ -88,7 +83,6 @@
 <p type="listitem">la politique nationale en matière d'enseignement soit mise en œuvre et réalisée de tel e sorte que les enfants, les adolescents et les adultes puissent recevoir un enseignement équitable et adapté / sur-mesure de grande qualité, ceci dans une communauté les incluant.</p>
 <p type="listitem">les perspectives multiculturelles soient préservées au jardin d'enfants, au primaire et au collège.</p>
 <p type="listitem">la qualité augmente dans l'offre d'enseignement aux personnes de langue minoritaire et dans le travail consistant à développer une communauté d'apprentissage multiculturelle et qui rassemble, aussi bien au jardin d'enfants, au primaire qu'au collège.</p>
-<p>Version finale du 19/11/2012 révisée le 06/12/2012</p>
 <p>Les professeurs, directeurs d'école, les propriétaires de jardins d'enfants et d'écoles et le personnel pédagogique des jardins d'enfants représentent les groupes cibles centraux de l'organisation. Le centre assiste le secteur des universités et écoles supérieures ( <em type="italic">UH </em>) / les institutions de formation des professeurs dans le travail d'investissement sur le développement des compétences. </p>
 <p>Pour obtenir plus d’informations, veuillez vous rendre sur le site : http://www.hioa.no/Om-</p>
 <p>HiOA/NAFO</p>
